@@ -2,12 +2,14 @@
   width: 10px;
 }
 
-/* Track */
 .customScroll::-webkit-scrollbar-track {
   background: rgb(226 232 240); 
 }
- 
-/* Handle */
+
 .customScroll::-webkit-scrollbar-thumb {
   background: rgb(148 163 184); 
+}
+
+.shadow-m{
+  box-shadow: 0 0 5px #ccc;
 }
