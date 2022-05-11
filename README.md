@@ -8,3 +8,4 @@ Website Ini Dibuat Dengan :
 <hr>
 
 Demo Link : [Github Pages](https://rzel100.github.io/opinia-react)
+Jika Tidak Bisa Coba Lewat Link [Netlify](https://opinia-fe-test.netlify.app/)
